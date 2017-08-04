@@ -1,0 +1,3 @@
+# How Does GKRuleSystem even work?
+
+Turns out its not that obscure once you play...
